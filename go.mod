@@ -1,4 +1,4 @@
-module stringmod
+module github.com/marzvix/stringmod
 
 go 1.21.0
 

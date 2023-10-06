@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"stringmod/quotes"
-	"stringmod/strings"
+	"github.com/marzvix/stringmod/quotes"
+	"github.com/marzvix/stringmod/strings"
 )
 
 func main() {
